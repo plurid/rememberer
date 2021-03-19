@@ -15,12 +15,12 @@
 
 
 <h3 align="center">
-    Screen Recorder
+    Screen Capturer
 </h3>
 
 
 
-`rememberer` is a screen recording utility.
+`rememberer` is a screen capturing utility.
 
 
 
